@@ -45,6 +45,7 @@ yarn-error.log*
 
 # PDFs and personal files (not source code)
 *.pdf
+*.zip
 
 # OS
 $RECYCLE.BIN/
